@@ -1,6 +1,8 @@
 # Học lập trình STM32F1 StdPeriph
 *Tự học lập trình STM32F1 StdPeriph*
 
+*Sẵn sàng public vì cộng đồng*
+
 ### Nội dung
 - 01#1_New_Project
 - 02#1_RCC_Configuration
